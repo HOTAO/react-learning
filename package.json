@@ -48,6 +48,8 @@
     "element-theme-default": "^1.4.12",
     "history": "^4.7.2",
     "html2canvas": "^1.0.0-alpha.4",
+    "lodash": "^4.17.5",
+    "macaddress": "^0.2.9",
     "randomatic": "^3.0.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
@@ -55,6 +57,7 @@
     "react-router-dom": "^4.2.2",
     "redux": "^3.7.2",
     "redux-thunk": "^2.2.0",
+    "url-parse": "^1.4.3",
     "weixin-jsapi": "^1.1.0"
   }
 }
